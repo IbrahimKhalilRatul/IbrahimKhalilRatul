@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Banner" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="75%">
 </p>
-<h1 align="center">Hi 👋, I'm Ibrahim Khalil</h1>
+<h1 align="center"> I'm Ibrahim Khalil </h1>
 <h2 align="center">🚀 AI Enthusiast </h2>
-
+<h2 align="center"> & I wanna say... </h2>
 <p align="center">
-  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
+  <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
 </p>
 
 
