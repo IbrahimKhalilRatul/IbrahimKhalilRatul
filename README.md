@@ -4,8 +4,10 @@
 
 <h1 align="center"> I'm Ibrahim Khalil </h1>
 <h1 align="center">🚀 AI Enthusiast<br></h1>
-<a align="center"> A final-year Artificial Intelligence student at Marwadi University with hands-on experience in developing AIbased projects and publishing research papers. Skilled in machine learning, deep learning, and data analysis with a strong foundation in Python and various AI frameworks. Also C.C++,JavaScript. Passionate about leveraging AI for real-world problem-solving and 
-eager to contribute to innovative teams </a>
+<p align="certer"> 
+A final-year Artificial Intelligence student at Marwadi University with hands-on experience in developing AIbased projects and publishing research papers. 
+Skilled in machine learning, deep learning, and data analysis with a strong foundation in Python and various AI frameworks. Also C.C++,JavaScript. Passionate 
+about leveraging AI for real-world problem-solving and eager to contribute to innovative teams. </p>
 <h1 align="center"> & I wanna say... </h1>
 <p align="center">
   <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
