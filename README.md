@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Khalil</h1>
-<h3 align="center">A passionate Ai(ML/DL) and NLP expert from India</h3>
+<h1 align="center">🚀 AI Enthusiast | ML, DL & NLP Specialist</h1>
+<h2 align="center">Hi 👋, I'm Ibrahim Khalil</h2>
+<h3 align="center">A passionate AI (ML/DL) and NLP expert from India</h3>
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimkhalilratul&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimkhalilratul" /> </p>
 
