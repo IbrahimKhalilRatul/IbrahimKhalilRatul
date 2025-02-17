@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkhalilratul" alt="ibrahimkhalilratul" /></a> </p>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 📫<h2>ibrahimkhalil.114851@gmail.com</h2>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><h2>ibrahimkhalil.114851@gmail.com</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
