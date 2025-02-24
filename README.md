@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" style="width: 200%; height: 400px; object-fit: cover;">
+  <img src="" alt="Banner" style="width: 200%; height: 400px; object-fit: cover;">
 </p>
 
 <h1 align="center"> I'm Ibrahim Khalil </h1>
@@ -12,8 +12,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimkhalilratul&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimkhalilratul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkhalilratul" alt="ibrahimkhalilratul" /></a> </p>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><h2>ibrahimkhalil.114851@gmail.com</h2>
 
