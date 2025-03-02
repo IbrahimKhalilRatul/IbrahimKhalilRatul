@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimkhalilratul&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimkhalilratul" /> </p>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><h2>ibrahimkhalil.114851@gmail.com</h2>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=Black"><h2>ibrahimkhalil.114851@gmail.com</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
